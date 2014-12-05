@@ -1,1 +1,2 @@
-msgbox "Hello"
+EMConnect ""
+EMSendKey "did it work?"
